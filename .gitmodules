@@ -1,0 +1,3 @@
+[submodule "lab1"]
+	path = labs/
+	url = https://github.com/CryStudyOrganization/Process-Threads
