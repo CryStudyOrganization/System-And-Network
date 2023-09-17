@@ -1,3 +1,7 @@
 [submodule "Process-Threads"]
 	path = Process-Threads
 	url = https://github.com/CryStudyOrganization/Process-Threads.git
+
+[submodule "DiskInfo"]
+	path = DiskInfo
+	url = https://github.com/CryStudyOrganization/DiskInfo.git
