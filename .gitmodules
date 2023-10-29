@@ -5,3 +5,7 @@
 [submodule "DiskInfo"]
 	path = DiskInfo
 	url = https://github.com/CryStudyOrganization/DiskInfo.git
+	
+[submodule "VBScripting"]
+	path = VBScripting
+	url = https://github.com/CryStudyOrganization/VBScripting
