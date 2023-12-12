@@ -9,3 +9,6 @@
 [submodule "VBScripting"]
 	path = VBScripting
 	url = https://github.com/CryStudyOrganization/VBScripting
+[submodule "SystemRegistry"]
+	path = SystemRegistry
+	url = https://github.com/CryStudyOrganization/SystemRegistry/tree/main
